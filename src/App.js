@@ -57,7 +57,7 @@ class App extends Component {
         {/* Header  */}
         <div className="container-fluid bg-dark text-light py-3">
           <div className="container">
-            <h1>My first react app.</h1>
+            <h1>Customer App</h1>
             <p>Welcome</p>
           </div>
         </div>
