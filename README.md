@@ -1,4 +1,6 @@
 
+## Demo 
+https://customerapp-rjs.herokuapp.com/
 ## This is simple react js application.  
 
 ## Usage
